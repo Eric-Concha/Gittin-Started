@@ -1,6 +1,6 @@
 # The Matrix
-[Web Link 1](https://thechoiceisyours.whatisthematrix.com/)
-[Web Link 2](https://www.warnerbros.com/movies/matrix)
+[Choose your reality](https://thechoiceisyours.whatisthematrix.com/)
+[Where to watch](https://www.warnerbros.com/movies/matrix)
 
 ![Movie poster for The Matrix](TheMatrix.jpg)
 
