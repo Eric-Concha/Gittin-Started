@@ -2,7 +2,7 @@
 [Web Link 1] (https://thechoiceisyours.whatisthematrix.com/)
 [Web Link 2] (https://www.warnerbros.com/movies/matrix)
 
-! [The movie poster for The Matrix](/Users/ericc/Documents/GitHub/Gittin-Started/The Matrix.jpg)
+! [The movie poster for The Matrix](https://www.imdb.com/title/tt0133093/)
 
 In the year **1999** a movie was released that would later become a household name, *The Matrix.* This movie integrated concepts of virtual reality and AI into a mind-bending, action packed thriller that asks the question *What if the nature of our reality was a lie?*. In my opinion, the movie is a sci-fi masterpiece and one of the greatest films of all time.
 
