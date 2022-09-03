@@ -1,6 +1,6 @@
 # The Matrix
-Web Link 1:    https://thechoiceisyours.whatisthematrix.com/
-Web Link 2:    https://www.warnerbros.com/movies/matrix
+[Web Link 1] (https://thechoiceisyours.whatisthematrix.com/)
+[Web Link 2] (https://www.warnerbros.com/movies/matrix)
 
 ! [The movie poster for The Matrix](/Users/ericc/Documents/GitHub/Gittin-Started/The Matrix.jpg)
 
